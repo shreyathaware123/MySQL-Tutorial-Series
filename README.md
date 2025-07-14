@@ -1,6 +1,6 @@
 ## MySQL Tutorial Practice Queries
  
-<img src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" alt="MySQL Workbench Logo" width="150"/> <img src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" alt="MySQL Workbench Logo" width="150"/> <img src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" alt="MySQL Workbench Logo" width="150"/> <img src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" alt="MySQL Workbench Logo" width="150"/> <img src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" alt="MySQL Workbench Logo" width="150"/> <img src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" alt="MySQL Workbench Logo" width="150"/>
+<img src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" alt="MySQL Workbench Logo" width="150"/>     <img src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" alt="MySQL Workbench Logo" width="150"/>     <img src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" alt="MySQL Workbench Logo" width="150"/>     <img src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" alt="MySQL Workbench Logo" width="150"/>     <img src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" alt="MySQL Workbench Logo" width="150"/>     <img src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" alt="MySQL Workbench Logo" width="150"/>
 
 
 
