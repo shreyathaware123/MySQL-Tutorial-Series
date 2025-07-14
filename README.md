@@ -1,5 +1,8 @@
 ## MySQL Tutorial Practice Queries
 
+<img src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" alt="MySQL Workbench Logo" width="150"/>
+
+
 These are the actual queries I wrote and ran in MySQL Workbench while learning and practicing MySQL.
 
 ## 📂 Tutorial Structure
