@@ -2,7 +2,7 @@
 
 These are the actual queries I wrote and ran in MySQL Workbench while learning and practicing MySQL.
 
-## 📂 Project Structure
+## 📂 Tutorial Structure
 - `beginner_queries.sql` – Basic SELECT, WHERE, ORDER BY, etc.
 - `intermediate_queries.sql` – GROUP BY, JOINs, subqueries, etc.
 - `advanced_queries.sql` – Window functions, CTEs, optimization practices.
